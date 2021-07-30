@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inside"
+        android:icon="@drawable/ic_hambuger_menu"
+        android:title="@string/drawer_inside"
+        android:enabled="true"
+        android:iconTint="@color/point"/>
+
+    <item android:id = "@+id/outside"
+        android:icon = "@drawable/ic_hambuger_menu"
+        android:title = "@string/drawer_outside"
+        android:enabled="true"
+        android:iconTint="@color/point" />
+
+    <item android:id = "@+id/nation"
+        android:icon = "@drawable/ic_hambuger_menu"
+        android:title = "@string/drawer_nation"
+        android:enabled="true"
+        android:iconTint="@color/point"
+        />
+</menu>

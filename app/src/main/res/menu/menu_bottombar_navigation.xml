@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="홈"
+        android:icon="@drawable/home_w"/>
+    <item
+        android:id="@+id/info"
+        android:title="장학정보"
+        android:icon="@drawable/mypage_w"/>
+    <item
+        android:id="@+id/alarm"
+        android:title="알림"
+        android:icon="@drawable/alarm_w"/>
+    <item
+        android:id="@+id/mypage"
+        android:title="My장학"
+        android:icon="@drawable/info_w"/>
+    <item
+        android:id="@+id/star"
+        android:title="즐겨찾기"
+        android:icon="@drawable/star_w"/>
+</menu>

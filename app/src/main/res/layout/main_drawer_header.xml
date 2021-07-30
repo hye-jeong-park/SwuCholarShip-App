@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/login_layout"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="20dp"
+    android:background="@color/point"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/drawer_header_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/ic_baseline_account_circle_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="apple123@gmail.com"
+        android:textColor="#FFF"
+        android:textSize="18dp"
+        android:fontFamily="@font/wemakeprice_bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/wemakeprice_semibold"
+        android:textSize="15dp"
+        android:textColor="#f5f5dc"
+        android:text="정보보호학과"/>
+</LinearLayout>
