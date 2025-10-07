@@ -37,33 +37,41 @@ SwuCholarShip은 대학생들을 위한 혁신적인 장학금 정보 중앙화 
 <div align="center">
   <img src="assets/기능소개_메인홈.jpg" alt="메인홈 기능 소개" width="500"/>
 </div>
+
 - **캘린더 형식**: 직관적인 캘린더 형식으로 장학금 정보 표시
 - **스마트 추천**: 해시태그 필터링을 통한 개인화된 장학금 추천
 - **빠른 접근**: 장학금 카테고리 간 쉬운 탐색
+<br/>
 
 ### 🔔 알림 시스템
 <div align="center">
   <img src="assets/기능소개_알림.jpg" alt="알림 기능 소개" width="500"/>
 </div>
+
 - **마감일 추적**: 카운트다운 타이머가 포함된 신청 마감일 알림
 - **시각적 표시**: 색상 코딩된 알림 (초록: 안전, 노랑: 주의, 빨강: 긴급)
 - **자동 정렬**: 우선순위 관리가 쉬운 긴급도별 알림 정렬
+<br/>
 
 ### ⭐ 즐겨찾기
 <div align="center">
   <img src="assets/기능소개_즐겨찾기.jpg" alt="즐겨찾기 기능 소개" width="500"/>
 </div>
+
 - **북마크 시스템**: 관심 있는 장학금을 쉽게 접근할 수 있도록 저장
 - **색상 코딩**: 교내 장학금(남색), 교외 장학금(노란색)
 - **빠른 관리**: 확인 대화상자와 함께 쉬운 추가/제거
+<br/>
 
 ### 🧮 등록금 계산기
 <div align="center">
   <img src="assets/기능소개_my장학.jpg" alt="등록금 계산기 기능 소개" width="500"/>
 </div>
+
 - **스마트 계산**: 장학금을 뺀 나머지 등록금 자동 계산
 - **프로필 통합**: 등록된 학과 및 학년 정보 활용
 - **실시간 업데이트**: 현재 즐겨찾기한 장학금 금액 표시
+<br/><br/>
 
 ## 부가 기능
 
@@ -78,6 +86,7 @@ SwuCholarShip은 대학생들을 위한 혁신적인 장학금 정보 중앙화 
 ### 📖 코치마크
 - **사용자 가이드**: 대화형 튜토리얼이 포함된 간단한 사용 설명서
 - **기능 발견**: 사용자가 앱 기능을 이해할 수 있도록 도움
+<br/><br/>
 
 ## 앱 사용 흐름
 
@@ -90,6 +99,7 @@ SwuCholarShip은 대학생들을 위한 혁신적인 장학금 정보 중앙화 
 <div align="center">
   <img src="assets/기능소개_전체적인 흐름.jpg" alt="전체적인 사용 흐름" width="600"/>
 </div>
+<br/><br/>
 
 ## 기술적 세부사항
 
@@ -109,6 +119,7 @@ SwuCholarShip은 대학생들을 위한 혁신적인 장학금 정보 중앙화 
 - **AndroidX 라이브러리**: Core, AppCompat, Material Design, ConstraintLayout
 - **Fragment 지원**: 향상된 Fragment 처리를 위한 Fragment-ktx
 - **네비게이션**: Material Design 네비게이션 컴포넌트
+<br/><br/>
 
 ## 프로젝트 구조
 
@@ -137,6 +148,7 @@ app/
 │   └── AndroidManifest.xml
 └── build.gradle
 ```
+<br/><br/>
 
 ## 설치 및 설정
 
@@ -166,6 +178,7 @@ android {
     }
 }
 ```
+<br/><br/>
 
 ## 개발 정보
 
@@ -173,6 +186,7 @@ android {
 - 부드러운 Fragment 전환을 위한 ViewPager2 사용
 - UI 전체에 Material Design 컴포넌트 사용
 - 일관된 브랜딩을 위한 사용자 정의 폰트 (WeMakePrice) 적용
+<br/><br/>
 
 ## 버전 정보
 
@@ -180,12 +194,14 @@ android {
 - **빌드**: 릴리스 빌드 구성 사용 가능
 - **타겟 SDK**: Android API 30
 - **최소 SDK**: Android API 24
+<br/><br/>
 
 ## 기대효과
 
 <div align="center">
   <img src="assets/마무리 멘트_기대효과.jpg" alt="기대효과" width="600"/>
 </div>
+<br/><br/>
 
 ## 개발팀
 
@@ -196,6 +212,7 @@ android {
 *개발팀 멤버*
 
 </div>
+<br/><br/>
 
 ## 인용 및 사용 안내
 
@@ -209,3 +226,4 @@ android {
 
 ### 라이선스 안내
 이 프로젝트는 서울여자대학교 학생들이 개발한 프로젝트입니다. 지적재산권을 존중하고 책임감 있게 사용해 주세요.
+
