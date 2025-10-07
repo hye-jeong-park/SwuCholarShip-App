@@ -17,7 +17,7 @@ SwuCholarShip is an innovative scholarship information centralization applicatio
 ## Problem We Solve
 
 <div align="center">
-  <img src="assets/아이디어 동기.jpg" alt="Idea Motivation" width="400"/>
+  <img src="assets/아이디어 동기.jpg" alt="Idea Motivation" width="600"/>
 </div>
 
 - **Information Scattered**: Numerous scholarships exist but information is hard to find
@@ -26,44 +26,54 @@ SwuCholarShip is an innovative scholarship information centralization applicatio
 - **No Centralized Platform**: No single platform to manage all scholarship information
 
 **Our Solution**: A centralized platform that shows hidden scholarships at a glance and motivates students to apply without missing out.
+<br/><br/>
 
 ## Key Features
 
 <div align="center">
   <img src="assets/요약_주요기능소개.jpg" alt="Key Features Overview" width="600"/>
 </div>
+<br/>
 
 ### 🏠 Main Home
 <div align="center">
   <img src="assets/기능소개_메인홈.jpg" alt="Main Home Feature" width="500"/>
 </div>
+
 - **Calendar Format**: Intuitive calendar format for scholarship information display
 - **Smart Recommendations**: Personalized scholarship suggestions with hashtag filtering
 - **Quick Access**: Easy navigation through scholarship categories
+<br/>
 
 ### 🔔 Alarm System
 <div align="center">
   <img src="assets/기능소개_알림.jpg" alt="Alarm Feature" width="500"/>
 </div>
+
 - **Deadline Tracking**: Application deadline notifications with countdown timers
 - **Visual Indicators**: Color-coded alerts (Green: Safe, Yellow: Warning, Red: Urgent)
 - **Auto-Sorting**: Alarms sorted by urgency for easy priority management
+<br/>
 
 ### ⭐ Favorites
 <div align="center">
   <img src="assets/기능소개_즐겨찾기.jpg" alt="Favorites Feature" width="500"/>
 </div>
+
 - **Bookmark System**: Save scholarships of interest for easy access
 - **Color Coding**: Internal scholarships (navy blue), External scholarships (yellow)
 - **Quick Management**: Easy add/remove with confirmation dialogs
+<br/>
 
 ### 🧮 Tuition Calculator
 <div align="center">
   <img src="assets/기능소개_my장학.jpg" alt="Tuition Calculator Feature" width="500"/>
 </div>
+
 - **Smart Calculation**: Automatically calculate remaining tuition after scholarships
 - **Profile Integration**: Uses registered department and grade information
 - **Real-time Updates**: Shows current bookmarked scholarship amounts
+<br/><br/>
 
 ## Additional Features
 
@@ -78,6 +88,7 @@ SwuCholarShip is an innovative scholarship information centralization applicatio
 ### 📖 Coach Mark
 - **User Guidance**: Simple user manual with interactive tutorials
 - **Feature Discovery**: Help users understand app functionality
+<br/><br/>
 
 ## App Usage Flow
 
@@ -90,6 +101,7 @@ SwuCholarShip is an innovative scholarship information centralization applicatio
 <div align="center">
   <img src="assets/기능소개_전체적인 흐름.jpg" alt="Overall User Flow" width="600"/>
 </div>
+<br/><br/>
 
 ## Technical Details
 
@@ -109,6 +121,7 @@ SwuCholarShip is an innovative scholarship information centralization applicatio
 - **AndroidX Libraries**: Core, AppCompat, Material Design, ConstraintLayout
 - **Fragment Support**: Fragment-ktx for enhanced fragment handling
 - **Navigation**: Material Design navigation components
+<br/><br/>
 
 ## Project Structure
 
@@ -137,6 +150,7 @@ app/
 │   └── AndroidManifest.xml
 └── build.gradle
 ```
+<br/><br/>
 
 ## Setup and Installation
 
@@ -166,6 +180,7 @@ android {
     }
 }
 ```
+<br/><br/>
 
 ## Development Notes
 
@@ -173,6 +188,7 @@ android {
 - ViewPager2 is used for smooth fragment transitions
 - Material Design components are used throughout the UI
 - Custom fonts (WeMakePrice) are applied for consistent branding
+<br/><br/>
 
 ## Version Information
 
@@ -180,12 +196,14 @@ android {
 - **Build**: Release build configuration available
 - **Target SDK**: Android API 30
 - **Minimum SDK**: Android API 24
+<br/><br/>
 
 ## Expected Impact
 
 <div align="center">
   <img src="assets/마무리 멘트_기대효과.jpg" alt="Expected Impact" width="600"/>
 </div>
+<br/><br/>
 
 ## Development Team
 
@@ -196,6 +214,7 @@ android {
 *Development Team Members*
 
 </div>
+<br/><br/>
 
 ## Citation & Usage Notice
 
